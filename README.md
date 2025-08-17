@@ -39,8 +39,15 @@ A Telegram bot that sends **daily motivational quotes** automatically at **7:00 
 
 4. Update these values:
 
+## 📸 Workflow Preview
+
+Here’s how the workflow is designed in **n8n**:
+
+![Workflow](./workflow-preview.png)
+
+
     -- Your Telegram Bot Token
 
     -- Your Chat ID
 
-5. Activate the workflow ✅
+6. Activate the workflow ✅
